@@ -1,1 +1,30 @@
-* {background-color: gray;}
+* {
+  background-color: gray;
+}
+
+
+
+#mainp {
+  background-color: darkred;
+  color: darkblue;
+}
+
+#bigitems {
+  background-color: lightgray;
+  color: lightblue;
+}
+
+h3 {
+  background-color: lightgray;
+  color: blue;
+}
+
+#addontext {
+  background-color: lightgray;
+  color: gray;
+}
+
+#subp1 {
+  background-color: blue;
+  color: white;
+}

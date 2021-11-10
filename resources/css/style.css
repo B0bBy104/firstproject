@@ -1,6 +1,5 @@
 * {
   background-color: #3d3d3d;
-  font-family: sans-serif;
 }
 
 h1 {
@@ -8,15 +7,19 @@ h1 {
   font-size: 3rem;
   text-decoration: underline;
   color: #bfbfbf;
+  font-family: 'Merriweather', serif;
+  text-shadow: 2px 2px 5px #9e9e9e;
 }
 
 #p1 {
   font-size: 15px;
   color: white;
+  text-shadow: 3px 2px 5px #000000;
 }
 
 a {
   color: #2664ff;
+  font-family: 'Open Sans', sans-serif;
 }
 
 ul {

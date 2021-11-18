@@ -9,6 +9,7 @@ h1 {
   color: #bfbfbf;
   font-family: 'Merriweather', serif;
   text-shadow: 1px 1px 5px #93b2c4;
+  text-align: center;
 }
 
 #p1 {
@@ -16,15 +17,19 @@ h1 {
   color: white;
   text-shadow: 3px 2px 5px #000000;
   font-family: 'Merriweather', serif;
+  text-align: center;
 }
 
 a {
   color: #2664ff;
   font-family: 'Open Sans', sans-serif;
+  text-align: center;
 }
 
 ul {
-  color: #999999;
+  color: #999999;.
+  text-align: center;
+  margin-left: 875px;
 }
 
 #p2 {
@@ -32,24 +37,30 @@ ul {
   color: white;
   font-family: 'Merriweather', serif;
   text-shadow: 3px 2px 5px #000000;
+  text-align: center;
 }
 
 footer {
   font-size: 10px;
   color: lightgray;
+  margin-top: 80px;
 }
 
 .paragraphs {
   background-image: linear-gradient(to right, #666666, #202057);
-  margin-right: 750px;
-
+  text-align: center;
+  padding-left: 150px;
+  padding-right: 150px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
 .feedback {
   color: white;
   font-family: 'Merriweather', serif;
   text-shadow: 3px 2px 5px #000000;
-  
+  text-align: center;
+  margin-top: 20px
 }
 
 button{
@@ -60,4 +71,17 @@ button{
 
 #feedbackform{
   background-color: #44444a;
+}
+
+.list1 {
+  color: gray
+}
+
+.links {
+  color: white;
+}
+
+.links:hover {
+  color: #3058db;
+  background-color: white;
 }

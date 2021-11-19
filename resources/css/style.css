@@ -19,7 +19,7 @@ body {
 }
 
 .hero-image {
-  background-image: url("/C:/Html%20Projects/firstproject/images/code.jpg");
+  background-image: url("B0bBy104/firstproject/images/code.jpg");
   background-color: #cccccc;
   height: 1000px;
   background-position: center;
@@ -27,6 +27,7 @@ body {
   background-size: cover;
   position: relative;
   color: white;
+  float: none;
 }
 
 #hero-text {

@@ -86,9 +86,7 @@ a {
   text-align: center;
   padding-left: 8px;
   padding-right: 8px;
-  margin-left: 250px;
-  margin-right: 250px;
-
+  display: block;
 }
 
 #p1 {

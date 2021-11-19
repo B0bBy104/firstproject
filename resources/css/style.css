@@ -107,7 +107,7 @@ a {
 }
 
 #feedbackform{
-  background-color: #44444a;
+  background-color: ##110326;
 }
 
 .feedback {
@@ -121,7 +121,8 @@ a {
 button{
   color: inherit;
   font-family: inherit;
-  text-shadow: inherit
+  text-shadow: inherit;
+  background-color: #110326;
 }
 
 footer {

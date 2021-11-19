@@ -58,12 +58,13 @@ h1 {
 ul {
   color: #999999;.
   text-align: center;
-  margin-left: 54.6975rem;
+  position: relative;
 }
 
 .list1 {
-  color
-  : gray
+  color: gray;
+  display: block;
+  text-align: center;
 }
 
 a {
@@ -87,7 +88,7 @@ a {
   padding-right: 8px;
   margin-left: 250px;
   margin-right: 250px;
-  background-blend-mode: hue;
+
 }
 
 #p1 {
@@ -126,7 +127,7 @@ button{
 }
 
 footer {
-  font-size: 10px;
+  font-size: 14px;
   color: lightgray;
   margin-top: 80px;
 }

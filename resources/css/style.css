@@ -51,7 +51,7 @@ h1 {
   text-decoration: underline dashed;
   color: #bfbfbf;
   font-family: 'Merriweather', serif;
-  text-shadow: 1px 1px 5px #93b2c4;
+  text-shadow: 1px 1px 5px #709DCC;
   text-align: center;
 }
 
@@ -82,35 +82,32 @@ a {
 }
 
 .paragraphs {
-  background-image: linear-gradient(to right, #666666, #202057);
+  background-image: linear-gradient(to right, #41474D, #466280);
   text-align: center;
   padding-left: 8px;
   padding-right: 8px;
   display: block;
+  margin-top: 13px;
+  margin-bottom: 13px;
   margin-left: 100px;
   margin-right: 100px;
   width: auto;
   border-radius: 5px;
-  margin-top: 13px;
   color: white;
+  text-shadow: 1.8px 1.8px 4.5px #000000;
+  font-family: 'Merriweather', serif;
 }
 
 #p1 {
   font-size: 15px;
-  text-shadow: 3px 2px 5px #000000;
-  font-family: 'Merriweather', serif;
 }
 
 #p2 {
   font-size: 13px;
-  font-family: 'Merriweather', serif;
-  text-shadow: 3px 2px 5px #000000;
 }
 
 #p3 {
   font-size: 13px;
-  font-family: 'Merriweather', serif;
-  text-shadow: 3px 2px 5px #000000;
 }
 
 #feedbackform{

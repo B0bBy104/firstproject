@@ -91,18 +91,23 @@ a {
   width: auto;
   border-radius: 5px;
   margin-top: 15px;
+  color: white;
 }
 
 #p1 {
   font-size: 15px;
-  color: white;
   text-shadow: 3px 2px 5px #000000;
   font-family: 'Merriweather', serif;
 }
 
 #p2 {
   font-size: 13px;
-  color: white;
+  font-family: 'Merriweather', serif;
+  text-shadow: 3px 2px 5px #000000;
+}
+
+#p3 {
+  font-size: 13px;
   font-family: 'Merriweather', serif;
   text-shadow: 3px 2px 5px #000000;
 }

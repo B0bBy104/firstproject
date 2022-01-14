@@ -3,13 +3,13 @@
 }
 
 ::-moz-selection { /* Code for Firefox */
-  color: #2e62ff;
-  background: #a6a4a4;
+  color: #008cff;
+  background: #ffffff;
 }
 
 ::selection {
-  color: #2e62ff;
-  background: #a6a4a4;
+  color: #008cff;
+  background: #ffffff;
 }
 
 body {
@@ -49,10 +49,12 @@ h1 {
   font-weight: 900;
   font-size: 3rem;
   text-decoration: underline dashed;
-  color: #bfbfbf;
+  color: white;
   font-family: 'Merriweather', serif;
-  text-shadow: 1px 1px 5px #709DCC;
+  text-shadow: 1px 1px 5px #bed7e8;
   text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
 }
 
 ul {
@@ -65,6 +67,7 @@ ul {
   color: gray;
   display: block;
   text-align: center;
+  padding: 2px;
 }
 
 a {
@@ -72,13 +75,16 @@ a {
   font-family: 'Open Sans', sans-serif;
   text-align: center;
 }
+
+
+
 .links {
   color: white;
 }
 
 .links:hover {
   color: #3058db;
-  background-color: white;
+  background-color: #c7c7c7;
 }
 
 .paragraphs {
